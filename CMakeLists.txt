@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14 FATAL_ERROR)
 
-project(wx_cmake_fetchcontent_template LANGUAGES CXX)
+project(myproject LANGUAGES CXX)
 
 include(FetchContent)
 
